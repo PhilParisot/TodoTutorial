@@ -107,35 +107,35 @@
         }
       },
       {
-        "HashCode": -1179162723,
+        "HashCode": -1145448692,
         "Kind": "Components.Component",
-        "Name": "TodoTutorial.Pages.Index",
+        "Name": "TodoTutorial.Pages.Todo",
         "AssemblyName": "TodoTutorial",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Todo"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoTutorial.Pages.Index"
+          "Common.TypeName": "TodoTutorial.Pages.Todo"
         }
       },
       {
-        "HashCode": 935583877,
+        "HashCode": -951614025,
         "Kind": "Components.Component",
-        "Name": "TodoTutorial.Pages.Index",
+        "Name": "TodoTutorial.Pages.Todo",
         "AssemblyName": "TodoTutorial",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TodoTutorial.Pages.Index"
+            "TagName": "TodoTutorial.Pages.Todo"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoTutorial.Pages.Index",
+          "Common.TypeName": "TodoTutorial.Pages.Todo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -318,39 +318,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "TodoTutorial.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1925121945,
-        "Kind": "Components.Component",
-        "Name": "__GeneratedComponent.AspNetCore_a70e0bc1a14d6be2e398ad9f07f7b21d24264d89",
-        "AssemblyName": "TodoTutorial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AspNetCore_a70e0bc1a14d6be2e398ad9f07f7b21d24264d89"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "__GeneratedComponent.AspNetCore_a70e0bc1a14d6be2e398ad9f07f7b21d24264d89"
-        }
-      },
-      {
-        "HashCode": 1540890286,
-        "Kind": "Components.Component",
-        "Name": "__GeneratedComponent.AspNetCore_a70e0bc1a14d6be2e398ad9f07f7b21d24264d89",
-        "AssemblyName": "TodoTutorial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "__GeneratedComponent.AspNetCore_a70e0bc1a14d6be2e398ad9f07f7b21d24264d89"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "__GeneratedComponent.AspNetCore_a70e0bc1a14d6be2e398ad9f07f7b21d24264d89",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13025,6 +12992,11 @@
   },
   "RootNamespace": "TodoTutorial",
   "Documents": [
+    {
+      "FilePath": "/mnt/c/Users/Phil/Repos/TodoTutorial/Pages/Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
+      "FileKind": "component"
+    },
     {
       "FilePath": "/mnt/c/Users/Phil/Repos/TodoTutorial/Shared/NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
