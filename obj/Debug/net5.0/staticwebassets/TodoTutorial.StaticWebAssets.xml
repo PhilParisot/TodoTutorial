@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="/mnt/c/Users/Phil/Repos/TodoTutorial/bin/Debug/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/mnt/c/Users/Phil/Repos/TodoTutorial/obj/Debug/net5.0/scopedcss/bundle/" />
+</StaticWebAssets>
